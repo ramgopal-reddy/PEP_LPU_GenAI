@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+langchain
+scikit-learn
+seaborn
+torch
+torchvision
+tensorflow
