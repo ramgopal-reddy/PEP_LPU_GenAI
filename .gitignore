@@ -1,0 +1,5 @@
+.vscode
+venv
+testing
+testing.ipynb
+NLP/datasets/glove.6B.100d.txt
