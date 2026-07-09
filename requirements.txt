@@ -17,3 +17,4 @@ tabulate
 nbformat>=4.2.0
 spacy
 xgboost
+transformers
